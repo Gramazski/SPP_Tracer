@@ -1,0 +1,5 @@
+C:\Users\gs\Documents\Visual Studio 2015\Projects\TestTracers\TestTracers\bin\Debug\TestTracers.pdb
+C:\Users\gs\Documents\Visual Studio 2015\Projects\TestTracers\TestTracers\obj\Debug\TestTracers.csprojResolveAssemblyReference.cache
+C:\Users\gs\Documents\Visual Studio 2015\Projects\TestTracers\TestTracers\obj\Debug\TestTracers.pdb
+C:\Users\gs\Documents\Visual Studio 2015\Projects\TestTracers\TestTracers\bin\Debug\TestTracers.dll
+C:\Users\gs\Documents\Visual Studio 2015\Projects\TestTracers\TestTracers\obj\Debug\TestTracers.dll

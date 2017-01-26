@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <thread id="9" timeForExecute="2025.1159">
+    <method methodName="Main" className="ForTests.Program" parametrsCount="1" totalTime="1910.1093">
+      <method methodName="Sleep4" className="ForTests.Program" parametrsCount="0" totalTime="1405.0804">
+        <method methodName="Sleep5" className="ForTests.Program" parametrsCount="0" totalTime="103.00590000000001" />
+        <method methodName="Sleep5" className="ForTests.Program" parametrsCount="0" totalTime="100.00580000000001" />
+        <method methodName="Sleep5" className="ForTests.Program" parametrsCount="0" totalTime="100.0057" />
+        <method methodName="Sleep5" className="ForTests.Program" parametrsCount="0" totalTime="100.0057" />
+        <method methodName="Sleep5" className="ForTests.Program" parametrsCount="0" totalTime="100.0057" />
+        <method methodName="Sleep5" className="ForTests.Program" parametrsCount="0" totalTime="100.0057" />
+        <method methodName="Sleep5" className="ForTests.Program" parametrsCount="0" totalTime="100.00580000000001" />
+        <method methodName="Sleep5" className="ForTests.Program" parametrsCount="0" totalTime="100.0057" />
+        <method methodName="Sleep5" className="ForTests.Program" parametrsCount="0" totalTime="100.0057" />
+        <method methodName="Sleep5" className="ForTests.Program" parametrsCount="0" totalTime="100.0057" />
+      </method>
+    </method>
+    <method methodName="ThreadCreator" className="ForTests.Program" parametrsCount="0" totalTime="115.0066" />
+  </thread>
+  <thread id="11" timeForExecute="200.0114">
+    <method methodName="Sleep1" className="ForTests.Program" parametrsCount="0" totalTime="100.0057" />
+    <method methodName="Sleep1" className="ForTests.Program" parametrsCount="0" totalTime="100.0057" />
+  </thread>
+  <thread id="10" timeForExecute="500.02860000000004">
+    <method methodName="Sleep3" className="ForTests.Program" parametrsCount="0" totalTime="500.02860000000004">
+      <method methodName="Sleep2" className="ForTests.Program" parametrsCount="0" totalTime="200.0115" />
+    </method>
+  </thread>
+  <thread id="12" timeForExecute="100.00580000000001">
+    <method methodName="Sleep6" className="ForTests.Program" parametrsCount="0" totalTime="100.00580000000001" />
+  </thread>
+  <thread id="13" timeForExecute="100.00580000000001">
+    <method methodName="Sleep6" className="ForTests.Program" parametrsCount="0" totalTime="100.00580000000001" />
+  </thread>
+  <thread id="14" timeForExecute="100.0057">
+    <method methodName="Sleep6" className="ForTests.Program" parametrsCount="0" totalTime="100.0057" />
+  </thread>
+  <thread id="15" timeForExecute="100.00580000000001">
+    <method methodName="Sleep6" className="ForTests.Program" parametrsCount="0" totalTime="100.00580000000001" />
+  </thread>
+  <thread id="16" timeForExecute="100.0057">
+    <method methodName="Sleep6" className="ForTests.Program" parametrsCount="0" totalTime="100.0057" />
+  </thread>
+</root>

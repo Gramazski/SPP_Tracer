@@ -1,0 +1,8 @@
+C:\Users\gs\Documents\Visual Studio 2015\Projects\TestTracers\ForTests\bin\Debug\ForTests.exe.config
+C:\Users\gs\Documents\Visual Studio 2015\Projects\TestTracers\ForTests\bin\Debug\ForTests.exe
+C:\Users\gs\Documents\Visual Studio 2015\Projects\TestTracers\ForTests\bin\Debug\ForTests.pdb
+C:\Users\gs\Documents\Visual Studio 2015\Projects\TestTracers\ForTests\bin\Debug\TestTracers.pdb
+C:\Users\gs\Documents\Visual Studio 2015\Projects\TestTracers\ForTests\obj\Debug\ForTests.csprojResolveAssemblyReference.cache
+C:\Users\gs\Documents\Visual Studio 2015\Projects\TestTracers\ForTests\obj\Debug\ForTests.exe
+C:\Users\gs\Documents\Visual Studio 2015\Projects\TestTracers\ForTests\obj\Debug\ForTests.pdb
+C:\Users\gs\Documents\Visual Studio 2015\Projects\TestTracers\ForTests\bin\Debug\TestTracers.dll
